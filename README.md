@@ -18,10 +18,13 @@ There is "isDemoMode" variable in "LoginViewController". If you set as true, app
 
 
 ## Screenshots
-<img src="https://github.com/leventozgur/Secure-To-Do-App/blob/main/Screenshots/ss_01.png?raw=true" alt="drawing" width="200" style="border: 1px solid;">
-<img src="https://github.com/leventozgur/Secure-To-Do-App/blob/main/Screenshots/ss_02.png?raw=true" alt="drawing" width="200" style="border: 1px solid;">
-<img src="https://github.com/leventozgur/Secure-To-Do-App/blob/main/Screenshots/ss_03.png?raw=true" alt="drawing" width="200" style="border: 1px solid;">
-<img src="https://github.com/leventozgur/Secure-To-Do-App/blob/main/Screenshots/ss_04.png?raw=true" alt="drawing" width="200" style="border: 1px solid;">
+
+<table><tr>
+<td> <img src="https://github.com/leventozgur/Secure-To-Do-App/blob/main/Screenshots/ss_01.png?raw=true" alt="ss_01" width="200" style="border: 1px solid;"> </td>
+<td> <img src="https://github.com/leventozgur/Secure-To-Do-App/blob/main/Screenshots/ss_02.png?raw=true" alt="ss_02" width="200" style="border: 1px solid;"> </td>
+<td> <img src="https://github.com/leventozgur/Secure-To-Do-App/blob/main/Screenshots/ss_03.png?raw=true" alt="ss_03" width="200" style="border: 1px solid;"> </td>
+<td> <img src="https://github.com/leventozgur/Secure-To-Do-App/blob/main/Screenshots/ss_04.png?raw=true" alt="ss_04" width="200" style="border: 1px solid;"> </td>
+</tr></table>
 
 ## Unit & UI Tests
 <img src="https://github.com/leventozgur/Secure-To-Do-App/blob/main/Screenshots/tests.png?raw=true" alt="drawing" width="400" style="border: 1px solid;">
